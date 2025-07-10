@@ -12,7 +12,7 @@
 	<groupId>com.tech</groupId>
 	<artifactId>prjm05img</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<package>war</package>
+	<packaging>war</packaging>
 	<name>prjm05img</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
